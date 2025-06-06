@@ -18,7 +18,7 @@ export const Button = ({
     <div
       className={`${buttonClass} px-4 py-2 rounded-xl flex flex-col items-center justify-center`}
     >
-      <div className={`${textClass}`}>{label}</div>
+      <div className={`${textClass} text-center`}>{label}</div>
     </div>
   );
 };

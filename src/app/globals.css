@@ -274,4 +274,224 @@ body {
   --color-slate-700: #1e293b;
   --color-slate-800: #0f172a;
   --color-slate-900: #020617;
+
+  --text-display-2xl-regular: 72px;
+  --leading-display-2xl-regular: 88px;
+  --font-weight-display-2xl-regular: 400;
+  
+  
+  --text-display-2xl-medium: 72px;
+  --leading-display-2xl-medium: 88px;
+  --font-weight-display-2xl-medium: 500;
+  
+  
+  --text-display-2xl-semibold: 72px;
+  --leading-display-2xl-semibold: 88px;
+  --font-weight-display-2xl-semibold: 600;
+  
+  
+  --text-display-2xl-bold: 72px;
+  --leading-display-2xl-bold: 88px;
+  --font-weight-display-2xl-bold: 700;
+  
+  
+  --text-display-xl-regular: 60px;
+  --leading-display-xl-regular: 72px;
+  --font-weight-display-xl-regular: 400;
+  
+  
+  --text-display-xl-medium: 60px;
+  --leading-display-xl-medium: 72px;
+  --font-weight-display-xl-medium: 500;
+  
+  
+  --text-display-xl-semibold: 60px;
+  --leading-display-xl-semibold: 72px;
+  --font-weight-display-xl-semibold: 600;
+  
+  
+  --text-display-xl-bold: 60px;
+  --leading-display-xl-bold: 72px;
+  --font-weight-display-xl-bold: 700;
+  
+  
+  --text-display-lg-regular: 48px;
+  --leading-display-lg-regular: 60px;
+  --font-weight-display-lg-regular: 400;
+  
+  
+  --text-display-lg-medium: 48px;
+  --leading-display-lg-medium: 60px;
+  --font-weight-display-lg-medium: 500;
+  
+  
+  --text-display-lg-semibold: 48px;
+  --leading-display-lg-semibold: 60px;
+  --font-weight-display-lg-semibold: 600;
+  
+  
+  --text-display-lg-bold: 48px;
+  --leading-display-lg-bold: 60px;
+  --font-weight-display-lg-bold: 700;
+  
+  
+  --text-display-md-regular: 36px;
+  --leading-display-md-regular: 44px;
+  --font-weight-display-md-regular: 400;
+  
+  
+  --text-display-md-medium: 36px;
+  --leading-display-md-medium: 44px;
+  --font-weight-display-md-medium: 500;
+  
+  
+  --text-display-md-semibold: 36px;
+  --leading-display-md-semibold: 44px;
+  --font-weight-display-md-semibold: 600;
+  
+  
+  --text-display-md-bold: 36px;
+  --leading-display-md-bold: 44px;
+  --font-weight-display-md-bold: 700;
+  
+  
+  --text-display-sm-regular: 30px;
+  --leading-display-sm-regular: 36px;
+  --font-weight-display-sm-regular: 400;
+  
+  
+  --text-display-sm-medium: 30px;
+  --leading-display-sm-medium: 36px;
+  --font-weight-display-sm-medium: 500;
+  
+  
+  --text-display-sm-semibold: 30px;
+  --leading-display-sm-semibold: 36px;
+  --font-weight-display-sm-semibold: 600;
+  
+  
+  --text-display-sm-bold: 30px;
+  --leading-display-sm-bold: 36px;
+  --font-weight-display-sm-bold: 700;
+  
+  
+  --text-display-xs-regular: 24px;
+  --leading-display-xs-regular: 32px;
+  --font-weight-display-xs-regular: 400;
+  
+  
+  --text-display-xs-medium: 24px;
+  --leading-display-xs-medium: 32px;
+  --font-weight-display-xs-medium: 500;
+  
+  
+  --text-display-xs-semibold: 24px;
+  --leading-display-xs-semibold: 32px;
+  --font-weight-display-xs-semibold: 600;
+  
+  
+  --text-display-xs-bold: 24px;
+  --leading-display-xs-bold: 32px;
+  --font-weight-display-xs-bold: 700;
+  
+  
+  --text-text-xl-regular: 20px;
+  --leading-text-xl-regular: 30px;
+  --font-weight-text-xl-regular: 400;
+  
+  
+  --text-text-xl-medium: 20px;
+  --leading-text-xl-medium: 30px;
+  --font-weight-text-xl-medium: 500;
+  
+  
+  --text-text-xl-semibold: 20px;
+  --leading-text-xl-semibold: 30px;
+  --font-weight-text-xl-semibold: 600;
+  
+  
+  --text-text-xl-bold: 20px;
+  --leading-text-xl-bold: 30px;
+  --font-weight-text-xl-bold: 700;
+  
+  
+  --text-text-lg-regular: 18px;
+  --leading-text-lg-regular: 28px;
+  --font-weight-text-lg-regular: 400;
+  
+  
+  --text-text-lg-medium: 18px;
+  --leading-text-lg-medium: 28px;
+  --font-weight-text-lg-medium: 500;
+  
+  
+  --text-text-lg-semibold: 18px;
+  --leading-text-lg-semibold: 28px;
+  --font-weight-text-lg-semibold: 600;
+  
+  
+  --text-text-lg-bold: 18px;
+  --leading-text-lg-bold: 28px;
+  --font-weight-text-lg-bold: 700;
+  
+  
+  --text-text-md-regular: 16px;
+  --leading-text-md-regular: 24px;
+  --font-weight-text-md-regular: 400;
+  
+  
+  --text-text-md-medium: 16px;
+  --leading-text-md-medium: 24px;
+  --font-weight-text-md-medium: 500;
+  
+  
+  --text-text-md-semibold: 16px;
+  --leading-text-md-semibold: 24px;
+  --font-weight-text-md-semibold: 600;
+  
+  
+  --text-text-md-bold: 16px;
+  --leading-text-md-bold: 24px;
+  --font-weight-text-md-bold: 700;
+  
+  
+  --text-text-sm-regular: 14px;
+  --leading-text-sm-regular: 20px;
+  --font-weight-text-sm-regular: 400;
+  
+  
+  --text-text-sm-medium: 14px;
+  --leading-text-sm-medium: 20px;
+  --font-weight-text-sm-medium: 500;
+  
+  
+  --text-text-sm-semibold: 14px;
+  --leading-text-sm-semibold: 20px;
+  --font-weight-text-sm-semibold: 600;
+  
+  
+  --text-text-sm-bold: 14px;
+  --leading-text-sm-bold: 20px;
+  --font-weight-text-sm-bold: 700;
+  
+  
+  --text-text-xs-regular: 12px;
+  --leading-text-xs-regular: 18px;
+  --font-weight-text-xs-regular: 400;
+  
+  
+  --text-text-xs-medium: 12px;
+  --leading-text-xs-medium: 18px;
+  --font-weight-text-xs-medium: 500;
+  
+  
+  --text-text-xs-semibold: 12px;
+  --leading-text-xs-semibold: 18px;
+  --font-weight-text-xs-semibold: 600;
+  
+  
+  --text-text-xs-bold: 12px;
+  --leading-text-xs-bold: 18px;
+  --font-weight-text-xs-bold: 700;
+  
 }

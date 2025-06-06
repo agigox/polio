@@ -5,11 +5,11 @@ const Hero = () => {
       <div className="container">
         <div className="content flex flex-col gap-12 items-center">
           <div className="headin-supporting flex flex-col gap-6 items-center">
-            <div className="heading w-full text-gray-900 text-center font-display-lg text-display-lg font-bold leading-display-lg tracking-display-lg">
+            <div className="heading w-full text-gray-900 text-center text-display-lg-bold font-bold leading-display-lg tracking-display-lg">
               Manage your customers using AI
             </div>
             <div className="supporting flex w-full px-60">
-              <div className="w-full text-gray-400 text-center font-text-xl-medium text-text-xl-medium leading-text-xl-medium font-text-xl-medium relative flex-1">
+              <div className="w-full text-gray-400 text-center font-text-xl-medium text-text-xl-medium leading-text-xl-medium relative flex-1">
                 Powerful, flexible and data-driven, Polio makes it easy to build
                 the exact CRM your business need
               </div>
